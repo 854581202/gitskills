@@ -1,2 +1,2 @@
-Create a new branch is quick & simple.
+Create a new branch is quick AND simple.
 this second time modify readme.txt on branch dev1
